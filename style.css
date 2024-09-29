@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(247, 135, 181);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+.list{
+    font-weight: bold;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
