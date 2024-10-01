@@ -1,13 +1,20 @@
 * {
-    background-color: rgb(247, 135, 181);
+    background-color: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(3, 38, 70);
     text-align: center;
-
 }
 
 .list{
-    font-weight: bold;
-    color: white;
-    font-style: italic;
+    
+    background-color: rgb(238, 228, 230);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 1px;
+    border: 1px;
     text-align: center;
+    display: inline-block;
+
 }
